@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>calzados OSITO</title>
+</head>
+<body style=" background: #1a5276;">  
+   
+    <h1 ALIGN="CENTER" style=" background: #f9e79f; padding: 60px; ; ">BIENVENIDO AL CATALOGO VIRTUAL DE OSITO CALZADOS</h1>
+    
+    <TABLE BORDER="4" BORDERCOLOR="BLACK"  ALIGN="CENTER" RULES="COLS" width="80%" >
+        <CAPtion style="font-family: 'Courier New', Courier, monospace; font-size: 150%;">CATALOGOS ACTUALIZADOS 2025</CAPtion>
+        <TR>
+            <TD style="background: #ca6f1e ;">CALZADO PARA DAMAS</TD>
+            <TD style="background: #ca6f1e ;">CALZADO PARA CABALLERO</TD>
+            <TD style="background: #ca6f1e ;">CALZADO PARA NIÑAS</TD>
+            <TD style="background: #ca6f1e ;">CALZADO PARA NIÑOS</TD>
+        </TR>
+        <TR align="CENTER">
+            <TD style="background: black ;" ><A href="https://drive.google.com/file/d/1Ul_DlGtTfo60ifyj2ojOE4neZoCzOWOj/view?usp=sharing" TARGET="_blank"><IMG SRC="https://i.postimg.cc/nr3r5ftJ/Captura-de-pantalla-2025-06-27-181854.jpg"  width="150 " height="200"></A></TD>
+            <TD style="background: black ;" ><A href="https://drive.google.com/file/d/1tT7X_U3CdYtGkbJXcGfwE6NLSd9a-B8f/view?usp=sharing" TARGET="_blank"><IMG src="https://i.postimg.cc/SRSjDN3d/Captura-de-pantalla-2025-06-27-182025.jpg"  width="150 " height="200"></A></TD>
+            <TD style="background: black ;" ><A href="https://drive.google.com/file/d/1D747WU4cl47d8CyB_2xUamv5P7TByEPC/view?usp=sharing" TARGET="_blank"><IMG SRC="https://i.postimg.cc/nzYC4QRM/3.jpg" width="150 " height="200"></A></TD>
+            <TD style="background: black ;" ><A href="https://drive.google.com/file/d/1Ge2FAwtUw3MhENwOhLTGSqSExJysj1eZ/view?usp=sharing" TARGET="_blank"><IMG SRC= "https://i.postimg.cc/kgz6qCRM/4.jpg" width="150 " height="200"></A></TD>
+        </TR>
+    </TABLE>
+
+
+    <BR>
+    <br>
+    <br>
+    <br>
+    <table align="CENTER">
+        <caption><h1><center>NUESTRAS REDES</center></h1></caption>
+        <tr>
+            <TD style="background: #ca6f1e ; padding: 30px;"><A href="https://www.facebook.com/share/16M84A4SnE/" TARGET="_blank"><IMG SRC="https://i.postimg.cc/DzGWzN1r/face.avif" width="80 " height="110"></A></TD>
+            <TD style="background: #ca6f1e ; padding: 30px;"><A href="https://wa.me/982793048" TARGET="_blank"><IMG src="https://i.postimg.cc/rD2wW85S/whatsapp.jpg" width="80 " height="110"></A></TD>
+        </tr>
+
+    </table>
+    
+    
+</body>
+</html>
